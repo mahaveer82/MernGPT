@@ -1,6 +1,6 @@
 # MernGPT
 
-This is a full-stack MERN (MongoDB, Express, React, Typescript, Node.js) application that replicates a simple chatbot similar to ChatGPT. 
+This is a full-stack MERN (MongoDB, Express, Typescript, Node.js) application that replicates a simple chatbot similar to ChatGPT. 
 Users can interact with the chatbot, ask questions, and receive responses. I was adding jwt token authentication features for security purpose's and hash password also.
 
 #Important
