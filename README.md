@@ -17,13 +17,17 @@ My Model was working completely fine like ChatGpt but i cannot buy the api key t
 1) Authentication and Authorization
    When user logout
    ![when_logout](https://github.com/mahaveer82/MernGPT/assets/77223066/24b72ee5-3174-418d-a143-9bea20793898)
+
+
    When user login
   ![when_login](https://github.com/mahaveer82/MernGPT/assets/77223066/f5965232-2c6f-4c4b-ae15-8f33d5373d6e)
 
-3) SignUp Page
+
+1) SignUp Page
   ![signup_user](https://github.com/mahaveer82/MernGPT/assets/77223066/07df6538-c35a-4c90-a3e9-db929e49c846)
 
-5) Chat Section
+
+2) Chat Section
   ![chat_interface](https://github.com/mahaveer82/MernGPT/assets/77223066/e205546a-291e-4d73-ade7-b575f5c0efc1)
 
 ## Installation
