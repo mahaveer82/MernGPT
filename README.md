@@ -1,17 +1,17 @@
-# MernGPT
+## MernGPT
 
-This is a full-stack MERN (MongoDB, Express, Typescript, Node.js) application that replicates a simple chatbot similar to ChatGPT. 
-Users can interact with the chatbot, ask questions, and receive responses. I was adding jwt token authentication features for security purpose's and hash password also.
-
-#Important
-
-My Model was working completely fine like ChatGpt but i cannot buy the api key that's why model can't be send response back.
+Your Personal AI Chatbot
+Immerse yourself in the world of AI-powered conversation with MernGPT, a full-fledged MERN (MongoDB, Express, Typescript, Node.js) application designed to replicate the functionalities of ChatGPT.
 
 ## Features
 
-- Real-time chat interface.
-- Text-based conversation with the chatbot.
-- Responses powered by GPT-3.5 or a similar language model.
+- Seamless Interaction: Engage in real-time conversations with a virtual companion, ask questions, and receive insightful responses.
+- Captivating Dialogue: Leverage the power of GPT-3.5 or similar language models to experience natural and engaging conversation, just like with a real person.
+- Secure and Private: Enjoy a secure and private chatting experience with JWT token-based authentication and password hashing for enhanced protection.
+  
+## Important
+
+My Model was working completely fine like ChatGpt but i cannot buy the api key that's why model can't be send response back.
 
 ## Screenshots
 1) Authentication and Authorization
