@@ -11,7 +11,7 @@ Immerse yourself in the world of AI-powered conversation with MernGPT, a full-fl
   
 ## Important
 
-My Model was working completely fine like ChatGpt but i cannot buy the api key that's why model can't be send response back.
+My Model was working completely fine like ChatGpt because I cannot buy the API key that's why the model can't send a response back.
 
 ## Screenshots
 1) Authentication and Authorization
